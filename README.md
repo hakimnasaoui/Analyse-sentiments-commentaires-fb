@@ -7,6 +7,6 @@
 Nous utiliserons les bibliothèques clientes "Cloud Natural Language" de Google Cloud.
 
 ## Les résultats vont montrer comme ça (ex) :
-**Score Positive**: 63%
-**Score Negative**: 23%
-**Score Neutre**: 14%
+**Score Positive**: 63%<br/>
+**Score Negative**: 23%<br/>
+**Score Neutre**: 14%<br/>
